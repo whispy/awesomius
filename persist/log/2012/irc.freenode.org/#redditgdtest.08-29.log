@@ -1,0 +1,71 @@
+09:41:27 -!- awesomius [~skybot@sala-mediapromagic.mediasat.ro] has joined #redditgdtest
+09:41:27 -!- mode/#redditgdtest [+ns] by hubbard.freenode.net
+09:41:32 -!- Azra-el [~Azra-el@unaffiliated/azra-el] has joined #redditgdtest
+09:41:46 -!- medos [~medos@unaffiliated/medos] has joined #redditgdtest
+09:41:56 <medos> which one is it?
+09:42:10 <medos> .list
+09:42:19 <medos> .weather
+09:42:46 <Azra-el> skybot
+09:42:49 <Azra-el> forrst
+09:43:55 <medos> hm
+09:43:59 <medos> have you checked it's content?
+09:44:07 <Azra-el> thats what im doing now ;)
+09:44:13 <medos> *its
+09:45:11 <Azra-el> .seen medos
+09:45:58 <Azra-el> .g medos
+09:46:59 <Azra-el> .wiki medos
+09:47:02 <Azra-el> dafuq
+09:47:15 <medos> .rem mobuy http://i.imgur.com/iLsxc.png
+09:47:18 <medos> ?mobuy
+09:47:29 <medos> neat
+09:47:54 <Azra-el> lol WHAT? :))
+09:47:59 <medos> http://www.youtube.com/watch?v=tg68wrMDMuE
+09:48:08 <medos> aight youtube
+09:48:13 <medos> .yt hello
+09:48:16 <medos> .y hello
+09:48:32 <Azra-el> how does that ?mobuy work
+09:48:43 <medos> you can tell it to remember specific shit
+09:48:55 <Azra-el> ah .. didnt see the prev command
+09:49:13 <medos> .rem tits http://i.imgur.com/pfoi4.gif
+09:49:16 <Azra-el> .tell medos medos
+09:49:17 <medos> ?tits
+09:49:40 <medos> worked
+09:49:44 <medos> got a notice
+09:49:44 <medos> http://i.imgur.com/Kkrks.png
+09:49:45 <medos> see
+09:49:55 <medos> you could've .tell'd me that you needed to leave
+09:49:59 <medos> useful bot is useful
+09:50:01 <medos> .commands
+09:50:03 <medos> .cmd
+09:50:05 <medos> .list
+09:50:09 <medos> it doesn't spam the channel either
+09:51:30 <Azra-el> when did you get a notice.. would you get a notice only when entering channel or 
+09:51:44 <medos> yeah
+09:51:51 -!- medos [~medos@unaffiliated/medos] has left #redditgdtest
+09:51:57 <Azra-el> .tell medos you suck
+09:52:06 -!- medos [~medos@unaffiliated/medos] has joined #redditgdtest
+09:52:14 <medos> baq
+09:52:25 <Azra-el> did it work?
+09:52:29 <medos> better
+09:52:32 <medos> it noticed
+09:52:33 <medos> http://i.imgur.com/gbNty.png
+09:52:34 <Azra-el> .drama 42
+09:52:36 <medos> when i said baq
+09:52:52 <Azra-el> lol
+09:53:02 <medos> as a "hey i'm actually here not just ping timeout rejoin"
+09:54:33 <Azra-el> .translate german english you suck
+09:54:52 <Azra-el> hmm
+09:55:02 <Azra-el> .translate
+09:55:13 <Azra-el> whyyyyy dont some work
+09:55:37 <medos> .ud derp
+09:55:40 <medos> .u derp
+09:55:45 <medos> http://www.urbandictionary.com/define.php?term=lololol
+09:55:47 <medos> hm
+09:55:49 <Azra-el> .down mobuy.ro
+09:55:56 <medos> those should all work
+09:55:57 <Azra-el> some just dont work
+09:56:05 <medos> .st AAPL
+09:56:08 <Azra-el> and i have no error message in the console
+09:56:09 <medos> .st FB
+09:58:55 <Azra-el> lets try something else
+10:01:04 <Azra-el> i might be missing a module... and i cant seem to be able to install it on win.. so gonna try it on vm

@@ -1,0 +1,145 @@
+09:41:19 :hubbard.freenode.net NOTICE * :*** Looking up your hostname...
+09:41:19 :hubbard.freenode.net NOTICE * :*** Checking Ident
+09:41:19 :hubbard.freenode.net NOTICE * :*** No Ident response
+09:41:20 :hubbard.freenode.net NOTICE * :*** Found your hostname
+09:41:20 :hubbard.freenode.net 001 awesomius :Welcome to the freenode Internet Relay Chat Network awesomius
+09:41:20 :hubbard.freenode.net 002 awesomius :Your host is hubbard.freenode.net[128.237.157.136/6667], running version ircd-seven-1.1.3
+09:41:20 :hubbard.freenode.net 003 awesomius :This server was created Sun Feb 19 2012 at 06:53:11 EST
+09:41:20 :hubbard.freenode.net 004 awesomius hubbard.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+09:41:20 :hubbard.freenode.net 005 awesomius CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+09:41:20 :hubbard.freenode.net 005 awesomius CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+09:41:20 :hubbard.freenode.net 005 awesomius EXTBAN=$,arx WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+09:41:20 :hubbard.freenode.net 251 awesomius :There are 224 users and 72813 invisible on 33 servers
+09:41:20 :hubbard.freenode.net 252 awesomius 48 :IRC Operators online
+09:41:20 :hubbard.freenode.net 253 awesomius 1 :unknown connection(s)
+09:41:20 :hubbard.freenode.net 254 awesomius 37647 :channels formed
+09:41:20 :hubbard.freenode.net 255 awesomius :I have 3701 clients and 1 servers
+09:41:20 :hubbard.freenode.net 265 awesomius 3701 10330 :Current local users 3701, max 10330
+09:41:20 :hubbard.freenode.net 266 awesomius 73037 83501 :Current global users 73037, max 83501
+09:41:20 :hubbard.freenode.net 250 awesomius :Highest connection count: 10331 (10330 clients) (1112074 connections received)
+09:41:20 :hubbard.freenode.net 375 awesomius :- hubbard.freenode.net Message of the Day - 
+09:41:20 :hubbard.freenode.net 372 awesomius :- Massive thanks to Carnegie Mellon University (http://www.cmu.edu) and 
+09:41:20 :hubbard.freenode.net 372 awesomius :- the CMU Computer Club for sponsoring this server!
+09:41:20 :hubbard.freenode.net 372 awesomius :-  
+09:41:20 :hubbard.freenode.net 372 awesomius :- Hubbard, Lafayette Ronald [1911 - 1986]. Was an american Sci-Fi writer, 
+09:41:20 :hubbard.freenode.net 372 awesomius :- perhaps more famed for devising Dianetics and Scientology.
+09:41:20 :hubbard.freenode.net 372 awesomius :- You're using freenode, a service of Peer-Directed Projects
+09:41:20 :hubbard.freenode.net 372 awesomius :- Center Ltd (http://freenode.net/pdpc.shtml).
+09:41:20 :hubbard.freenode.net 372 awesomius :-  
+09:41:20 :hubbard.freenode.net 372 awesomius :- By connecting to freenode you indicate that you have read
+09:41:20 :hubbard.freenode.net 372 awesomius :- and agree to adhere to our policies and procedures as per
+09:41:20 :hubbard.freenode.net 372 awesomius :- the website (http://freenode.net). We would like to remind
+09:41:20 :hubbard.freenode.net 372 awesomius :- you that unauthorized public logging of channels on the
+09:41:20 :hubbard.freenode.net 372 awesomius :- network is prohibited. Public channel logging should only
+09:41:20 :hubbard.freenode.net 372 awesomius :- take place where the channel owner(s) has requested this
+09:41:20 :hubbard.freenode.net 372 awesomius :- and users of the channel are all made aware (if you are
+09:41:20 :hubbard.freenode.net 372 awesomius :- publically logging your channel, you may wish to keep a
+09:41:20 :hubbard.freenode.net 372 awesomius :- notice in topic and perhaps as a on-join message).
+09:41:20 :hubbard.freenode.net 372 awesomius :-  
+09:41:20 :hubbard.freenode.net 372 awesomius :- freenode runs an open proxy scanner. Your use of the network
+09:41:20 :hubbard.freenode.net 372 awesomius :- indicates your acceptance of this policy. For details on
+09:41:20 :hubbard.freenode.net 372 awesomius :- freenode network policy, please take a look at our policy
+09:41:20 :hubbard.freenode.net 372 awesomius :- page (http://freenode.net/policy.shtml). Thank you for using
+09:41:20 :hubbard.freenode.net 372 awesomius :- the network!
+09:41:20 :hubbard.freenode.net 372 awesomius :-  
+09:41:20 :hubbard.freenode.net 372 awesomius :- Don't forget to check out these other Peer-Directed Projects:
+09:41:20 :hubbard.freenode.net 372 awesomius :- FOSSCON [http://www.fosscon.org] and fossevents 
+09:41:20 :hubbard.freenode.net 372 awesomius :- [http://www.fossevents.org], and soon we'll repeat last years 
+09:41:20 :hubbard.freenode.net 372 awesomius :- success with Picnics for Geeks across the globe, more info at 
+09:41:20 :hubbard.freenode.net 372 awesomius :- [http://geeknic.org]
+09:41:20 :hubbard.freenode.net 372 awesomius :-  
+09:41:20 :hubbard.freenode.net 372 awesomius :- freenode is a service of Peer-Directed Projects Center Ltd,
+09:41:20 :hubbard.freenode.net 372 awesomius :- a not for profit organisation registered in England and Wales.
+09:41:20 :hubbard.freenode.net 372 awesomius :-  
+09:41:20 :hubbard.freenode.net 372 awesomius :- If you support the work we do and wish to donate to the PDPC, 
+09:41:20 :hubbard.freenode.net 372 awesomius :- you may do so over at http://freenode.net/pdpc_donations.shtml
+09:41:20 :hubbard.freenode.net 372 awesomius :-  
+09:41:20 :hubbard.freenode.net 372 awesomius :- Thank you for using freenode!
+09:41:20 :hubbard.freenode.net 372 awesomius :-  
+09:41:20 :hubbard.freenode.net 372 awesomius :- ***************************************************************
+09:41:20 :hubbard.freenode.net 372 awesomius :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+09:41:20 :hubbard.freenode.net 372 awesomius :- ***************************************************************
+09:41:20 :hubbard.freenode.net 376 awesomius :End of /MOTD command.
+09:41:20 :awesomius MODE awesomius :+i
+09:41:27 :awesomius!~skybot@sala-mediapromagic.mediasat.ro JOIN #redditgdtest
+09:41:27 :hubbard.freenode.net MODE #redditgdtest +ns
+09:41:27 :hubbard.freenode.net 353 awesomius @ #redditgdtest :@awesomius
+09:41:27 :hubbard.freenode.net 366 awesomius #redditgdtest :End of /NAMES list.
+09:41:32 :Azra-el!~Azra-el@unaffiliated/azra-el JOIN #redditgdtest
+09:41:46 :medos!~medos@unaffiliated/medos JOIN #redditgdtest
+09:41:56 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :which one is it?
+09:42:10 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :.list
+09:42:19 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :.weather
+09:42:46 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :skybot
+09:42:49 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :forrst
+09:43:08 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG awesomius :say
+09:43:28 PING :hubbard.freenode.net
+09:43:55 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :hm
+09:43:59 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :have you checked it's content?
+09:44:07 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :thats what im doing now ;)
+09:44:13 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :*its
+09:45:11 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :.seen medos
+09:45:58 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :.g medos
+09:46:59 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :.wiki medos
+09:47:02 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :dafuq
+09:47:15 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :.rem mobuy http://i.imgur.com/iLsxc.png
+09:47:18 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :?mobuy
+09:47:29 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :neat
+09:47:54 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :lol WHAT? :))
+09:47:59 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :http://www.youtube.com/watch?v=tg68wrMDMuE
+09:48:08 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :aight youtube
+09:48:13 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :.yt hello
+09:48:16 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :.y hello
+09:48:32 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :how does that ?mobuy work
+09:48:43 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :you can tell it to remember specific shit
+09:48:55 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :ah .. didnt see the prev command
+09:49:13 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :.rem tits http://i.imgur.com/pfoi4.gif
+09:49:16 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :.tell medos medos
+09:49:17 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :?tits
+09:49:40 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :worked
+09:49:44 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :got a notice
+09:49:44 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :http://i.imgur.com/Kkrks.png
+09:49:45 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :see
+09:49:55 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :you could've .tell'd me that you needed to leave
+09:49:59 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :useful bot is useful
+09:50:01 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :.commands
+09:50:03 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :.cmd
+09:50:05 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :.list
+09:50:09 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :it doesn't spam the channel either
+09:51:30 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :when did you get a notice.. would you get a notice only when entering channel or 
+09:51:44 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :yeah
+09:51:44 PING :hubbard.freenode.net
+09:51:51 :medos!~medos@unaffiliated/medos PART #redditgdtest
+09:51:57 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :.tell medos you suck
+09:52:06 :medos!~medos@unaffiliated/medos JOIN #redditgdtest
+09:52:14 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :baq
+09:52:25 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :did it work?
+09:52:29 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :better
+09:52:32 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :it noticed
+09:52:33 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :http://i.imgur.com/gbNty.png
+09:52:34 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :.drama 42
+09:52:36 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :when i said baq
+09:52:52 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :lol
+09:53:02 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :as a "hey i'm actually here not just ping timeout rejoin"
+09:54:19 PING :hubbard.freenode.net
+09:54:33 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :.translate german english you suck
+09:54:52 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :hmm
+09:55:02 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :.translate
+09:55:13 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :whyyyyy dont some work
+09:55:37 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :.ud derp
+09:55:40 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :.u derp
+09:55:45 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :http://www.urbandictionary.com/define.php?term=lololol
+09:55:47 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :hm
+09:55:49 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :.down mobuy.ro
+09:55:56 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :those should all work
+09:55:57 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :some just dont work
+09:56:05 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :.st AAPL
+09:56:08 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :and i have no error message in the console
+09:56:09 :medos!~medos@unaffiliated/medos PRIVMSG #redditgdtest :.st FB
+09:56:23 PING :hubbard.freenode.net
+09:58:27 PING :hubbard.freenode.net
+09:58:55 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :lets try something else
+10:00:31 PING :hubbard.freenode.net
+10:01:04 :Azra-el!~Azra-el@unaffiliated/azra-el PRIVMSG #redditgdtest :i might be missing a module... and i cant seem to be able to install it on win.. so gonna try it on vm
+10:02:35 PING :hubbard.freenode.net
+10:04:39 PING :hubbard.freenode.net

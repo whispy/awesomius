@@ -1,0 +1,13 @@
+01:08:25 <medos> .tell Kocho http://colloquy.info/project/wiki/Documentation/TipsAndTricks#DesktopColloquy
+09:55:36 <medos> .tell
+09:56:37 <medos> .tell Azra-el http://www.netmagazine.com/features/10-principles-mobile-interface-design -- now
+09:56:58 <medos> .relay .tell Azra-el http://www.netmagazine.com/features/10-principles-mobile-interface-design to Azra-el when medos is around
+09:57:06 <medos> .relay Azra-el http://www.netmagazine.com/features/10-principles-mobile-interface-design to Azra-el when medos is around
+09:57:15 <medos> .STFU
+09:57:18 <medos> .hats
+09:57:21 <medos> .help
+09:57:29 <medos> .cs
+09:57:39 <medos> .weather
+09:57:46 <medos> .weather Hamburg
+10:00:38 <medos> .profile
+10:00:47 <medos> .hash
